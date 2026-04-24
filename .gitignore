@@ -4,8 +4,6 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-.env
-.env.*
 !env.example
 
 # Node
@@ -26,3 +24,4 @@ Thumbs.db
 
 # Grapuco index
 .grapuco/
+config.bat
